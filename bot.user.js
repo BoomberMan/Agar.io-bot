@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        [CROatia] GOGY
+// @namespace   [CROatia] GOGY
 // @include     http://agar.io/*
 // @version     3.562
 // @grant       none
