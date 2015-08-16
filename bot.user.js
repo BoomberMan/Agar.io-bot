@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
-// @include     http://agar.io/*
+// @name        [CROatia] GOGY
+// @namespace   [CROatia] GOGY
+// @include     http://agar-hr.ga*
 // @version     3.562
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
