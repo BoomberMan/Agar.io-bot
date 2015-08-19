@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        AposLoader
-// @namespace   AposLoader
+// @name        [CROatia] GOGY
+// @namespace   [CROatia] GOGY
 // @description Grabs latest versions of the bot scripts automatically.
-// @include     http://agar.io/
+// @include     http://agar.
 // @version     1.3
 // @grant       none
 // @author      http://www.twitch.tv/apostolique
